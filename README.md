@@ -55,3 +55,6 @@ d)Class Declarations:
 e)Global Variables:
 
   . Static variables and arrays are declared within the details and Regestration classes.
+
+
+  
