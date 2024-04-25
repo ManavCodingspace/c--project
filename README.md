@@ -38,7 +38,7 @@ f) Exiting: Choose the exit option when done.
 
 a)Header Includes: The code begins with necessary header includes such as <iostream>, <fstream>, and <iomanip> for handling input/output operations and file handling.
 
-b)Namespace Declaration: The using namespace std; statement is used to simplify code by avoiding repetition of the std:: prefix.
+b)Namespace Declaration: The using namespace std; statement is used to simplify code by avoiding repetition of the "std::"  prefix.
 
 c)Function Prototypes: The mainMenu() function prototype is declared before its definition to allow calling it from within other functions.
 
