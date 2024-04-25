@@ -12,7 +12,7 @@ c)Ticket Generation: Tickets are generated with essential details like customer 
 
 d)File Handling: The program utilizes file operations to store and retrieve customer details and ticket information.
 
-# **Usage**
+# **How to use**
 
 a) Compilation: Compile the source code using a C++ compiler.
 
